@@ -85,6 +85,6 @@ def print_lcd(x, y, str):
 if __name__ == '__main__':
     init_lcd()
 
-    print_lcd(0, 0, 'Hello, Fiy!')
-    print_lcd(8, 1, 'Fiy')
+    print_lcd(0, 0, 'Hello, jjun!')
+    print_lcd(8, 1, 'jjun')
     open_light()
